@@ -2,4 +2,4 @@
 
 Our website's source code
 
-You can collaborate with us: t.me/UniversalOS
+You can collaborate with us: https://t.me/UniversalOS
